@@ -87,10 +87,10 @@
       {% endif %}      
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
-      {% endif %} 
-      {% if author.osf %}
-        <li><a href="https://osf.io/{{ site.author.osf }}"><i class="fab fa-fw fa-osf icon-pad-right" aria-hidden="true"></i>OSF</a></li>
       {% endif %}     
+      {% if author.osf %}
+        <li><a href="https://osf.io/{{ site.author.osf }}" target="_blank"><img src="/assets/images/osf.svg" alt="OSF" style="width:16px; height:16px; vertical-align:middle; margin-right:6px;">OSF</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Social media -->
       {% if author.artstation %}
