@@ -99,6 +99,17 @@ talk_category:
   schools:
     title: 'Summer School Presentations'
 
+# Teaching Category - list of categories and their headings
+teaching_category:
+  courses:
+    title: 'University-Level Teaching'
+  workshops:
+    title: 'Workshops'
+  mentoring:
+    title: 'Internship mentoring'
+  school:
+    title: 'Other Teaching Experience'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
