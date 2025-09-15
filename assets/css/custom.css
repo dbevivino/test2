@@ -1,0 +1,21 @@
+/* Compact, reference-style publications list */
+.page-publications .archive__item-title {
+  font-size: 0.9rem;
+  font-weight: normal;
+}
+
+.page-publications .archive__item p {
+  font-size: 0.88rem;
+  font-weight: normal;
+  margin-bottom: 0.4em;
+  line-height: 1.3;
+}
+
+.page-publications .archive__item i {
+  font-style: italic;
+}
+
+.page-publications .archive__item a {
+  text-decoration: none;
+  color: inherit;
+}
