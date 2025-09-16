@@ -37,7 +37,7 @@ Université Paris Cité, CNRS 🇲🇫
 Mount Holyoke College 🇺🇸
 
 🎓 MSc in Cognitive Neuroscience of Language
-Basque Center on Cognition, Brain and Language (BCBL) and University of the Basque Country 🇪🇸
+Basque Center on Cognition, Brain and Language (BCBL) and University of the Basque Country 🏴󠁥󠁳󠁰󠁶󠁿🇪🇸
 
 🎓 CEDILS (Certificate in Teaching Italian as a Second Language)
 Ca’ Foscari University of Venice 🇮🇹
