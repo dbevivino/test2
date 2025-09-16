@@ -33,16 +33,15 @@ First and second language acquisition
 Multilingualism 
 Psycholinguistics and cognitive neuroscience of language  -->
 
-<li><i class="fa-li fa-solid fa-book"></i>
-Sociophonetics/Neurophonetics</li>
-
 Education
 ------
 <ul class="fa-ul">
   <li>
     <span class="fa-li">🎓</span>
       PhD in Psycholinguistics<br>
+      <span style="display:block; font-size:0.85em; color:#555;">
       Université Paris Cité, CNRS 🇲🇫
+      </span>
   </li>
   <li>
     <span class="fa-li">📍</span>
