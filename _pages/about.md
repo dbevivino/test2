@@ -21,42 +21,34 @@ This is a sub-sub heading
 
 Or better, bold text looking like a new sub-level
 
-**Reseach interests**
-
+Reseach interests
+------
 -
-
 -
-
 -
-
 -
 
 Education
 ------
 🎓 PhD in Psycholinguistics
-
 Université Paris Cité, CNRS 🇲🇫
 
-📍Research Stay at CAPS Lab
-
+📍 Research Stay at the Cognition, Attention, Perception, and Speech Lab (CAPSlab)
 Mount Holyoke College 🇺🇸
 
 🎓 MSc in Cognitive Neuroscience of Language
-
 Basque Center on Cognition, Brain and Language (BCBL) and University of the Basque Country 🇪🇸
 
 🎓 CEDILS (Certificate in Teaching Italian as a Second Language)
-
 Ca’ Foscari University of Venice 🇮🇹
 
 🎓 MA in Linguistics
-
 Sapienza University of Rome 🇮🇹
 
 🎓 BA in Linguistic and Philological Studies
-
 Sapienza University of Rome 🇮🇹
 
+# News
 
 Create content & metadata
 ------
