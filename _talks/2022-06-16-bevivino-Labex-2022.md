@@ -3,7 +3,7 @@ title: "Priming prosodic structure in production in English: A pilot study"
 collection: talks
 type: "Invited talk"
 permalink: /talks/2022-06-16-bevivino-Labex-2022
-venue: "Laboratory of Excellence “Empirical Foundations of Linguistics” (LabEx EFL) Annual Symposium "
+venue: "the Laboratory of Excellence “Empirical Foundations of Linguistics” (LabEx EFL) Annual Symposium "
 date: 2022-06-16
 location: "Paris, France"
 
