@@ -3,7 +3,7 @@ title: "Priming cooperating prosodic phrasing increases reading times: An eye-tr
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2025-09-04-bevivino-amlap-2025
-venue: "Architectures and Mechanisms for Language Processing (AMLaP 31) "
+venue: "Architectures and Mechanisms for Language Processing (AMLaP 31)"
 date: 2025-09-04
 location: "Prague, Czechia"
 

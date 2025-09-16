@@ -3,7 +3,7 @@ title: "Priming prosodic boundaries in an online speech production experiment"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2022-09-07-bevivino-amlap-2022
-venue: "Architectures and Mechanisms for Language Processing (AMLaP 28) "
+venue: "Architectures and Mechanisms for Language Processing (AMLaP 28)"
 date: 2022-09-07
 location: "York, UK"
 

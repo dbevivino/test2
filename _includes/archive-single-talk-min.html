@@ -34,9 +34,9 @@
     </h3>
     <!-- {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %} -->
     {% if post.date %}<p class="page__meta" style="display: flex; align-items: baseline;">
-      <span style="display: inline-block; width: 180px;">
+      <span style="display: inline-block; width: 150px;">
       <i class="fa fa-calendar-days" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</span>
-    {% if post.coauthors and post.coauthors != '' and post.coauthors != false %}<span style="margin-left: 1em;">with {{ post.coauthors }}</span>{% endif %}</p>{% endif %}
+    {% if post.coauthors %}<span style="margin-left: 1em;">with {{ post.coauthors }}</span>{% endif %}</p>{% endif %}
   {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at {{ post.venue }}, in {{post.location}}</p>{% endif %}
     <!-- {% if post.title%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %} -->
   </article>
