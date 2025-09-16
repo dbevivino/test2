@@ -81,6 +81,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  inprogress:
+    title: 'In Progress'
   books:
     title: 'Books'
   papers:
@@ -88,8 +90,6 @@ publication_category:
   conferences:
     # title: 'Conference Papers'
     title: 'Peer-Reviewed Publications/Proceedings'
-  inprogress:
-    title: 'In Progress'
 
 # Talk Category - list of talk categories and their headings
 talk_category:
