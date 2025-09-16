@@ -3,7 +3,7 @@ title: "Does priming prosodic phrasing modulate reading times? Evidence from aud
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2023-09-02-bevivino-amlap-2023
-venue: "Architectures and Mechanisms for Language Processing (AMLaP 29) "
+venue: "Architectures and Mechanisms for Language Processing (AMLaP 29)"
 date: 2023-09-02
 location: "Donostia-San Sebastián, Basque Country, Spain"
 

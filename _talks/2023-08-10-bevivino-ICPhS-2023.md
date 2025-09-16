@@ -3,7 +3,7 @@ title: "Data from online production experiments and challenges for collecting go
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2023-08-10-bevivino-ICPhS-2023
-venue: "International Congress of Phonetic Sciences (ICPhS 20) "
+venue: "the International Congress of Phonetic Sciences (ICPhS 20) "
 date: 2023-08-10
 location: "Prague, Czechia"
 
