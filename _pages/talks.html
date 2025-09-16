@@ -28,13 +28,13 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       <!-- {% include archive-single-talk.html %} # ORIGINAL -->
-      {% include archive-single-min.html %} <!-- # MINIMAL STYLE -->
+      {% include archive-single-talk-min.html %} <!-- # MINIMAL STYLE -->
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.talks reversed %}
       <!-- {% include archive-single-talk.html %} # ORIGINAL -->
-      {% include archive-single-min.html %} <!-- # MINIMAL STYLE -->
+      {% include archive-single-talk-min.html %} <!-- # MINIMAL STYLE -->
   {% endfor %}
 {% endif %}
 
