@@ -25,18 +25,34 @@ Reseach interests
 ------
 <ul class="fa-ul">
   <li>
-    <span class="fa-li">🎓</span>
-    Prosody, Speech Processing, Sentence Processing, Language Acquisition and Multilingualism 
-    </li>
-<li>
-<i class="fa-li fa-solid fa-book"></i>
-Psycholinguistics and Cognitive Neuroscience of Language, Usage-Based Approaches to linguistic issues
-</li>
-<li>
- <span class="fa-li">📖</span>
- Open Science, Data Analysis, and Data Visualization
-</li>
+    <span class="fa-li">📖</span>
+    Prosody
+  </li>
+  <li>
+    <span class="fa-li">📖</span>
+    Sentence Processing
+  </li>
+  <li>
+    <span class="fa-li">📖</span>
+    First and Second Language Acquisition
+  </li>
+  <li>
+    <span class="fa-li">📖</span>
+    Multilingualism 
+  </li>
+  <li>
+    <span class="fa-li">📖</span>
+    Psycholinguistics and Cognitive Neuroscience of Language<!-- , Usage-Based Approaches to linguistic issues -->
+  </li>
+  <li>
+    <span class="fa-li">📖</span>
+    Open Science, Data Analysis, and Data Visualization
+  </li>
 </ul>
+
+<!-- Prosody, Speech Processing, Sentence Processing, Language Acquisition and Multilingualism 
+Psycholinguistics and Cognitive Neuroscience of Language, Usage-Based Approaches to linguistic issues
+Open Science, Data Analysis, and Data Visualization -->
 
 <!-- Prosody
 Sentence processing
@@ -58,8 +74,7 @@ Education
     <span class="fa-li">📍</span>
       Research Stay at the Cognition, Attention, Perception, and Speech Lab (CAPSlab)<br>
       <span style="display:block; font-size:0.85em; color:#555;">
-      Mount Holyoke College 🇺🇸
-      
+      Mount Holyoke College 🇺🇸    
   </li>
   <li>
     <span class="fa-li">🎓</span>
