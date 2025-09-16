@@ -74,7 +74,8 @@ Education
     <span class="fa-li">📍</span>
       Research Stay at the Cognition, Attention, Perception, and Speech Lab (CAPSlab)<br>
       <span style="display:block; font-size:0.85em; color:#555;">
-      Mount Holyoke College 🇺🇸    
+      Mount Holyoke College 🇺🇸
+      </span>   
   </li>
   <li>
     <span class="fa-li">🎓</span>
