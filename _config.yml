@@ -83,10 +83,13 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  papers:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    # title: 'Conference Papers'
+    title: 'Peer-Reviewed Publications/Proceedings'
+  inprogress:
+    title: 'In Progress'
 
 # Talk Category - list of talk categories and their headings
 talk_category:
