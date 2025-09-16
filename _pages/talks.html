@@ -27,12 +27,14 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single-talk.html %}
+      <!-- {% include archive-single-talk.html %} # ORIGINAL -->
+      {% include archive-single-min.html %} <!-- # MINIMAL STYLE -->
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.talks reversed %}
-    {% include archive-single-talk.html %}
+      <!-- {% include archive-single-talk.html %} # ORIGINAL -->
+      {% include archive-single-min.html %} <!-- # MINIMAL STYLE -->
   {% endfor %}
 {% endif %}
 
