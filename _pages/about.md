@@ -23,30 +23,58 @@ Or better, bold text looking like a new sub-level
 
 Reseach interests
 ------
--
--
--
--
+- Prosody, Speech Processing, Sentence Processing, Language Acquisition and Multilingualism 
+Psycholinguistics and Cognitive Neuroscience of Language, Usage-Based Approaches to linguistic issues
+Open Science, Data Analysis, and Data Visualization
+
+<!-- Prosody
+Sentence processing
+First and second language acquisition
+Multilingualism 
+Psycholinguistics and cognitive neuroscience of language  -->
+
+<li><i class="fa-li fa-solid fa-book"></i>
+Sociophonetics/Neurophonetics</li>
 
 Education
 ------
-🎓 PhD in Psycholinguistics
-Université Paris Cité, CNRS 🇲🇫
-
-📍 Research Stay at the Cognition, Attention, Perception, and Speech Lab (CAPSlab)
-Mount Holyoke College 🇺🇸
-
-🎓 MSc in Cognitive Neuroscience of Language
-Basque Center on Cognition, Brain and Language (BCBL) and University of the Basque Country󠁥 🇪🇸
-
-🎓 CEDILS (Certificate in Teaching Italian as a Second Language)
-Ca’ Foscari University of Venice 🇮🇹
-
-🎓 MA in Linguistics
-Sapienza University of Rome 🇮🇹
-
-🎓 BA in Linguistic and Philological Studies
-Sapienza University of Rome 🇮🇹
+<ul class="fa-ul">
+  <li>
+    <span class="fa-li">🎓</span>
+      PhD in Psycholinguistics<br>
+      Université Paris Cité, CNRS 🇲🇫
+  </li>
+  <li>
+    <span class="fa-li">📍</span>
+      Research Stay at the Cognition, Attention, Perception, and Speech Lab (CAPSlab)<br>
+      Mount Holyoke College 🇺🇸
+  </li>
+  <li>
+    <span class="fa-li">🎓</span>
+      MSc in Cognitive Neuroscience of Language<br>
+      Basque Center on Cognition, Brain and Language (BCBL) and University of the Basque Country󠁥 🇪🇸
+  </li>
+  <li>
+    <span class="fa-li">🎓</span>
+      CELI Examiner Certificate (habilitation to evaluate Italian Language Proficiency Certificates)<br>
+      University for Foreigners of Perugia 🇮🇹
+  </li>
+  <li>
+    <span class="fa-li">🎓</span>
+      CEDILS Certificate (Certificate in Teaching Italian as a Second Language)<br>
+      Ca’ Foscari University of Venice 🇮🇹
+  </li>
+  <li>
+    <span class="fa-li">🎓</span>
+      MA in Linguistics<br>
+      Sapienza University of Rome 🇮🇹
+  </li>
+  <li>
+    <span class="fa-li">🎓</span>
+      BA in Linguistic and Philological Studies<br>
+      Sapienza University of Rome 🇮🇹
+  </li>
+</ul>
 
 # News
 
