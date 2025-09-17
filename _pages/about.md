@@ -65,11 +65,11 @@ Education
 ------
 
 <div><article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-  <h3 class="archive__item-title">
+  <h3 class="archive__item-title"{font-weight: normal;}>
     <span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics
   </h3>
   <p class="page__meta">
-    <span style="margin-left: 1.5em;">
+    <span style="margin-left: 1.5em; font-size:0.85em;">
     Université Paris Cité, CNRS 🇲🇫</span>
   </p>
 </article></div>
