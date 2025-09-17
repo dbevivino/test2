@@ -56,7 +56,7 @@ Psycholinguistics and cognitive neuroscience of language  -->
 
 <div class="two-columns-local">
 
-<div class="column">
+<div class="column" style = "flex: 0 0 20%; min-width: 100px;">
     <!-- Interests HTML -->
     <h2>Interest</h2>
   <ul class="fa-ul">
