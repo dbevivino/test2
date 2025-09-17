@@ -57,20 +57,30 @@ Education
 ------
 
 <div>
-<h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;">
-    <span style="margin-right: 0.5em; margin-bottom: 0em;">🎓</span>PhD in Psycholinguistics
+<h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;  margin-bottom: 0em">
+    <span style="margin-right: 0.5em;;">🎓</span>PhD in Psycholinguistics
   </h3>
-  <p class="page__meta">
-    <span style="margin-left: 2em; margin-top: 0em; font-size:0.8em;">
+  <p class="page__meta" style = "margin-top: 0em;" >
+    <span style="margin-left: 2em; font-size:0.8em;">
     Université Paris Cité, CNRS 🇲🇫</span>
   </p>
 </div>
 
 <div>
   <h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;">
-    <span style="margin-right: 0.5em; margin-bottom: 0em;">🎓</span>PhD in Psycholinguistics
+    <span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics
   </h3>
-  <p class="page__meta">
+  <p class="page__meta" style = "margin-top: 0em;" >
+    <span style="margin-left: 2em; font-size:0.8em;">
+    Université Paris Cité, CNRS 🇲🇫</span>
+  </p>
+</div>
+
+<div>
+  <h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em">
+    <span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics
+  </h3>
+  <p class="page__meta" style = "margin-top: 0em;" >
     <span style="margin-left: 2em; font-size:0.8em;">
     Université Paris Cité, CNRS 🇲🇫</span>
   </p>
