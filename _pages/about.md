@@ -55,80 +55,46 @@ Psycholinguistics and cognitive neuroscience of language  -->
 
 Education
 ------
-
-<div>
-<h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;  margin-bottom: 0em">
-    <span style="margin-right: 0.5em;;">🎓</span>PhD in Psycholinguistics
-  </h3>
-  <p class="page__meta" style = "margin-top: 0em;" >
+<div><h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em;"><span style="margin-right: 0.5em;">🎓</span>
+    PhD in Psycholinguistics</h3>
+  <p class="page__meta" style = "margin-top: 0em; margin-bottom: 0.5em;" >
     <span style="margin-left: 2em; font-size:0.8em;">
-    Université Paris Cité, CNRS 🇲🇫</span>
-  </p>
-</div>
+    Université Paris Cité, CNRS 🇲🇫</span></p></div>
 
-<div>
-  <h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;">
-    <span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics
-  </h3>
-  <p class="page__meta" style = "margin-top: 0em;" >
+<div><h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em; margin-top: 0.5em;"><span style="margin-right: 0.5em;">📍</span>
+    Research Stay at the Cognition, Attention, Perception, and Speech Lab (CAPSlab)</h3>
+  <p class="page__meta" style = "margin-top: 0em; margin-bottom: 0.5em;" >
     <span style="margin-left: 2em; font-size:0.8em;">
-    Université Paris Cité, CNRS 🇲🇫</span>
-  </p>
-</div>
+    Mount Holyoke College 🇺🇸</span></p></div>
 
-<div>
-  <h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em">
-    <span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics
-  </h3>
-  <p class="page__meta" style = "margin-top: 0em;" >
+<div><h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em; margin-top: 0.5em;"><span style="margin-right: 0.5em;">🎓</span>
+    MSc in Cognitive Neuroscience of Language</h3>
+  <p class="page__meta" style = "margin-top: 0em; margin-bottom: 0.5em;" >
     <span style="margin-left: 2em; font-size:0.8em;">
-    Université Paris Cité, CNRS 🇲🇫</span>
-  </p>
-</div>
+    Basque Center on Cognition, Brain and Language (BCBL) and University of the Basque Country󠁥 🇪🇸</span></p></div>
 
-  <ul class="fa-ul">
-  <li>
-    <span class="fa-li">📍</span>
-      Research Stay at the Cognition, Attention, Perception, and Speech Lab (CAPSlab)<br>
-      <span style="display:block; font-size:0.85em; color:#555;">
-      Mount Holyoke College 🇺🇸
-      </span>   
-  </li>
-  <li>
-    <span class="fa-li">🎓</span>
-      MSc in Cognitive Neuroscience of Language<br>
-      <span style="display:block; font-size:0.85em; color:#555;">
-      Basque Center on Cognition, Brain and Language (BCBL) and University of the Basque Country󠁥 🇪🇸
-      </span>
-  </li>
-  <li>
-    <span class="fa-li">🎓</span>
-      CELI Examiner Certificate (habilitation to evaluate Italian Language Proficiency Exams)<br>
-      <span style="display:block; font-size:0.85em; color:#555;">
-      University for Foreigners of Perugia 🇮🇹
-      </span>
-  </li>
-  <li>
-    <span class="fa-li">🎓</span>
-      CEDILS Certificate (Certificate in Teaching Italian as a Second Language)<br>
-      <span style="display:block; font-size:0.85em; color:#555;">
-      Ca’ Foscari University of Venice 🇮🇹
-      </span>
-  </li>
-  <li>
-    <span class="fa-li">🎓</span>
-      MA in Linguistics<br>
-      <span style="display:block; font-size:0.85em; color:#555;">
-      Sapienza University of Rome 🇮🇹
-      </span>
-  </li>
-  <li>
-    <span class="fa-li">🎓</span>
-      BA in Linguistic and Philological Studies<br>
-      <span style="display:block; font-size:0.85em; color:#555;">
-      Sapienza University of Rome 🇮🇹
-      </span>
-  </li>
-</ul>
+<div><h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em; margin-top: 0.5em;"><span style="margin-right: 0.5em;">🎓</span>
+    CELI Examiner Certificate (habilitation to evaluate Italian Language Proficiency Exams)</h3>
+  <p class="page__meta" style = "margin-top: 0em; margin-bottom: 0.5em;" >
+    <span style="margin-left: 2em; font-size:0.8em;">
+    University for Foreigners of Perugia 🇮🇹</span></p></div>
+
+<div><h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em; margin-top: 0.5em;"><span style="margin-right: 0.5em;">🎓</span>
+    CEDILS Certificate (Certificate in Teaching Italian as a Second Language)</h3>
+  <p class="page__meta" style = "margin-top: 0em; margin-bottom: 0.5em;" >
+    <span style="margin-left: 2em; font-size:0.8em;">
+    Ca’ Foscari University of Venice 🇮🇹</span></p></div>
+
+<div><h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em; margin-top: 0.5em;"><span style="margin-right: 0.5em;">🎓</span>
+    MA in Linguistics</h3>
+  <p class="page__meta" style = "margin-top: 0em; margin-bottom: 0.5em;" >
+    <span style="margin-left: 2em; font-size:0.8em;">
+    Sapienza University of Rome 🇮🇹</span></p></div>
+
+<div><h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em; margin-top: 0.5em;"><span style="margin-right: 0.5em;">🎓</span>
+    BA in Linguistic and Philological Studies</h3>
+  <p class="page__meta" style = "margin-top: 0em; margin-bottom: 0.5em;" >
+    <span style="margin-left: 2em; font-size:0.8em;">
+    Sapienza University of Rome 🇮🇹</span></p></div>
 
 <!-- # News -->
