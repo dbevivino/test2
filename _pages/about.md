@@ -63,14 +63,16 @@ Psycholinguistics and cognitive neuroscience of language  -->
 
 Education
 ------
-<ul class="fa-ul">
-  <li>
-    <span class="fa-li">🎓</span>
-      PhD in Psycholinguistics<br>
-      <span style="display:block; font-size:0.85em; color:#555;">
-      Université Paris Cité, CNRS 🇲🇫
-      </span>
-  </li>
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+<h3 class="archive__item-title" itemprop="headline">
+  <i class="fa-li">🎓</i> PhD in Psycholinguistics<br>
+    <p class="page__meta">
+      Université Paris Cité, CNRS 🇲🇫</p>
+</article>
+</div>
+  
+  <ul class="fa-ul">
   <li>
     <span class="fa-li">📍</span>
       Research Stay at the Cognition, Attention, Perception, and Speech Lab (CAPSlab)<br>
