@@ -24,30 +24,69 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single-teaching.html %}
+      {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.teaching reversed %}
-    {% include archive-single-teaching.html %}
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %} -->
 
-<!-- Simple Markdown -->
-University-Level Teaching
-------
-Spring 2024, Spring 2023
+<!-- Hard-coded w/o md files-->
+<h2>University-Level Teaching</h2><hr />
 
-Language and Cognition (primary instructor)
+<h3 class="archive__item-title" itemprop="headline">
+      Italian Language and Culture (TA)
+</h3>
+<p class="page__meta">
+  <i class="fa fa-calendar" aria-hidden="true"></i> Summer 2018, Spring 2018, Fall 2017</p>
+<p class="page__meta" style="display: flex; align-items: baseline;">
+    <span style="display: inline-block; width: 150px;">
+      <i class="fa fa-calendar" aria-hidden="true">
+      </i> Summer 2018, Spring 2018, Fall 2017</span>
+    <span style="margin-left: 1em;">
+      <i class="fa fa-building-columns">
+      </i>  DePauw University, IN, USA</span>
+    <span style="margin-left: 1em;">
+      <i class="fa fa-language">
+      </i>  Language of instruction: Italian</span></p>
+<p class="page__meta" style="display: flex; align-items: baseline;">
+    <span style="display: inline-block; width: 300px;">
+      <i class="fa fa-calendar" aria-hidden="true">
+      </i> Summer 2018, Spring 2018, Fall 2017</span>
+    <span style="margin-left: 1em;">DePauw University 🇺🇸</span>
+    <span style="margin-left: 1em;">Language of instruction 🇮🇹 </span></p>
+<p class="archive__item-excerpt" itemprop="description">BA introductory and advanced courses (one course per level, from beginners to advanced)</p>
 
-Université Paris Cité, France
+<h3 class="archive__item-title" itemprop="headline">
+    Language and Cognition (primary instructor)
+</h3>
 
-BA introductory course
+<h2>Internship mentoring</h2><hr />
 
-Language of instruction: French
+<h3 class="archive__item-title" itemprop="headline">
+      Speech production data pre-processing
+</h3>
+<p class="page__meta" style="display: flex; align-items: baseline;">
+    <span style="display: inline-block; width: 170px;">
+      <i class="fa fa-calendar" aria-hidden="true">
+      </i> Spring/Fall 2023</span>
+    <span style="margin-left: 1em;">
+      <i class="fa fa-building-columns">
+      </i>  Université Paris Cité, CNRS</span>
+    <span style="margin-left: 1em;">
+      <i class="fa fa-building-columns">
+      </i>  MA internship (2 students)</span></p>
 
-Internship mentoring
-------
+<h3 class="archive__item-title" itemprop="headline">
+      Speech production data collection and pre-processing
+</h3>
+<p class="page__meta" style="display: flex; align-items: baseline;">
+    <span style="display: inline-block; width: 150px;">
+      <i class="fa fa-calendar" aria-hidden="true">
+      </i> Winter/Spring 2023</span>
+    <span style="margin-left: 1.5em;">Université Paris Cité, CNRS 🇲🇫</span>
+    <span style="margin-left: 2em;">2 master-level student</span></p>
 
-Other Teaching Experience
-------
+<h2>Other Teaching Experience</h2><hr />
