@@ -54,8 +54,17 @@ First and second language acquisition
 Multilingualism 
 Psycholinguistics and cognitive neuroscience of language  -->
 
-Education
-------
+<div class="two-columns-local">
+
+<div class="column">
+    <!-- Interests HTML -->
+    <h2>Interest</h2>
+    </div>
+
+<!-- Education -->
+<div class="column" style="flex: 0 0 65%; min-width: 200px;">
+<h2>Education</h2>
+
 <div><h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em;"><span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics</h3>
   <p class="page__meta" style = "margin-top: 0em; margin-bottom: 0.5em;" >
     <span style="margin-left: 2em; font-size:0.8em;">Université Paris Cité, CNRS 🇲🇫</span></p></div>
@@ -84,4 +93,21 @@ Education
   <p class="page__meta" style = "margin-top: 0em; margin-bottom: 0.5em;" >
     <span style="margin-left: 2.5em; font-size:0.8em;">Sapienza University of Rome 🇮🇹</span></p></div>
 
+</div>
+</div>
+
 <!-- # News -->
+
+<!-- Inline CSS scoped to this section -->
+<style>
+.two-columns-local {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+.two-columns-local .column {
+  flex: 1;
+  min-width: 200px;
+}
+</style>
