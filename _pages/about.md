@@ -7,19 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My long description here
+Lorem ipsum dolor sit amet. Ea distinctio impedit ut molestiae voluptas ut ullam aspernatur et Quis deserunt sit sint illum 33 quia porro ut tenetur beatae. Et dolor amet et rerum autem ex voluptatem explicabo et alias excepturi et laboriosam cumque! Quo iusto quod 33 nesciunt quisquam et vero adipisci qui quod alias est porro natus.
 
-And here
+Aut recusandae odit qui nisi enim ut deserunt voluptates qui maxime consequatur ut nostrum quos. Aut iure expedita qui ullam quas ad debitis dolores aut quis ratione?
 
-This is a sub-heading
-=====
-
-This is a sub-sub heading
-------
-
-**This is a sub-sub-sub heading**
-
-Or better, bold text looking like a new sub-level
+Ex officia consectetur in doloremque galisum sed quod quasi. Eum suscipit voluptatem eum laboriosam velit est illum reiciendis sed molestiae laboriosam ea dicta nihil.
 
 <!-- Reseach interests
 ------
@@ -64,15 +56,25 @@ Psycholinguistics and cognitive neuroscience of language  -->
 Education
 ------
 
-<div><article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-  <h3 class="archive__item-title" style="font-weight: normal;">
-    <span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics
+<div><article class="archive__item" >
+  <h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;">
+    <span style="margin-right: 0.5em; margin-bottom: 0em;">🎓</span>PhD in Psycholinguistics
   </h3>
   <p class="page__meta">
     <span style="margin-left: 2em; font-size:0.8em;">
     Université Paris Cité, CNRS 🇲🇫</span>
   </p>
 </article></div>
+
+<div>
+  <h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;">
+    <span style="margin-right: 0.5em; margin-bottom: 0em;">🎓</span>PhD in Psycholinguistics
+  </h3>
+  <p class="page__meta">
+    <span style="margin-left: 2em; font-size:0.8em;">
+    Université Paris Cité, CNRS 🇲🇫</span>
+  </p>
+</div>
 
   <ul class="fa-ul">
   <li>
