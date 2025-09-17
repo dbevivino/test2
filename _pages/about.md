@@ -66,7 +66,7 @@ Psycholinguistics and cognitive neuroscience of language  -->
 </div>
 
 <!-- Education -->
-<div class="column" style="flex: 0 0 75%; min-width: 200px;">
+<div class="column" style="flex: 0 0 65%; min-width: 200px;">
 <h2>Education</h2>
 
 <div><h3 class="archive__item-title" style="font-weight: normal; text-decoration: none; margin-bottom: 0em;"><span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics</h3>
