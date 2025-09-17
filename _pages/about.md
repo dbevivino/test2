@@ -56,15 +56,15 @@ Psycholinguistics and cognitive neuroscience of language  -->
 Education
 ------
 
-<div><article class="archive__item" >
-  <h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;">
+<div>
+<h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;">
     <span style="margin-right: 0.5em; margin-bottom: 0em;">🎓</span>PhD in Psycholinguistics
   </h3>
   <p class="page__meta">
-    <span style="margin-left: 2em; font-size:0.8em;">
+    <span style="margin-left: 2em; margin-top: 0em; font-size:0.8em;">
     Université Paris Cité, CNRS 🇲🇫</span>
   </p>
-</article></div>
+</div>
 
 <div>
   <h3 class="archive__item-title" style="font-weight: normal; text-decoration: none;">
