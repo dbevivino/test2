@@ -63,10 +63,10 @@ Psycholinguistics and cognitive neuroscience of language  -->
 
 Education
 ------
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+<div><article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 <h3 class="archive__item-title" itemprop="headline">
-  <span class="fa-li"; style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics</h3>
+  <span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics</h3>
     <p class="page__meta"><span style="margin-left: 1.7em;">
       Université Paris Cité, CNRS 🇲🇫</p>
 </article>
