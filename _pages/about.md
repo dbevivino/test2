@@ -65,13 +65,18 @@ Education
 ------
 
 <div><article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-<h3 class="archive__item-title" itemprop="headline">
-  <span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics</h3>
-    <p class="page__meta"><span style="margin-left: 1.7em;">
-      Université Paris Cité, CNRS 🇲🇫</p>
-</article>
-</div>
-  
+  <h3 class="archive__item-title">
+    <span style="margin-right: 0.5em;">🎓</span>PhD in Psycholinguistics
+  </h3>
+  <p class="page__meta">
+    <span style="margin-left: 1.5em;">
+    Université Paris Cité, CNRS 🇲🇫</span>
+  </p>
+</article></div>
+
+### 🎓 PhD in Psycholinguistics
+<p class="page__meta"><span style="margin-left: 1.5em; margin-top: 0em">Université Paris Cité, CNRS 🇲🇫</span></p>
+
   <ul class="fa-ul">
   <li>
     <span class="fa-li">📍</span>
